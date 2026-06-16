@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm OEddie
-Just a Jack of No Trades, focused on learning C.
+Just a Jack of No Trades, Computer Engineering student, focused on learning C.
 
 <div align="center">
   <a href="https://github.com/Itsoeddie">
